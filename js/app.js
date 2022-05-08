@@ -52,7 +52,7 @@ function App() {
     <div>
       <center><h1>Path Of Exile Cheat Sheets</h1></center>
       <center>
-        Images belong to their respective authors, I just collected them here.
+        All images belong to their respective authors, I just collected them here.
         If you have ideas to contribute:{' '}
         <a href="https://github.com/maximvl/poe-cheatstheets" target="_blank">
           <img src="images/github.png" style={{width: '30px', verticalAlign: 'middle'}} />
