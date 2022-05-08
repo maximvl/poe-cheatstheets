@@ -12,13 +12,18 @@ const cheatsheets = [
     image: "towers.png"
   },
   {
-    title: "Essense upgrades",
-    image: "essences.png"
+    title: "Syndicate",
+    image: "syndicate.png"
   },
   {
     title: "Leveling",
     image: "leveling.jpeg"
   },
+  {
+    title: "Essense upgrades",
+    image: "essences.png"
+  },
+
   {
     title: "Trader currency rates",
     image: "currency.png"
@@ -58,6 +63,9 @@ function App() {
       </div>
       <div className="pure-g">
         {sheets.slice(3,6)}
+      </div>
+      <div className="pure-g">
+        {sheets.slice(6,9)}
       </div>
     </div>
   )
